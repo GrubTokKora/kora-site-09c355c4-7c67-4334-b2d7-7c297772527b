@@ -1,0 +1,20 @@
+.menu-section {
+  text-align: center;
+}
+
+.menu-section h2 {
+  margin-bottom: 1rem;
+}
+
+.menu-intro {
+  max-width: 700px;
+  margin: 0 auto 3rem auto;
+  color: var(--color-text-dark);
+}
+
+.menu-placeholder {
+  border: 2px dashed var(--color-secondary);
+  padding: 4rem 2rem;
+  border-radius: 8px;
+  color: var(--color-text-dark);
+}

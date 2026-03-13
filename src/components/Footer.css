@@ -1,0 +1,7 @@
+.site-footer-bottom {
+  background-color: var(--color-primary);
+  padding: 2rem 0;
+  text-align: center;
+  color: var(--color-text-dark);
+  border-top: 1px solid var(--color-secondary);
+}

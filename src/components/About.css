@@ -1,0 +1,15 @@
+.about-section {
+  background-color: var(--color-secondary);
+  text-align: center;
+}
+
+.about-section h2 {
+  margin-bottom: 2rem;
+}
+
+.about-section p {
+  max-width: 800px;
+  margin: 0 auto;
+  color: var(--color-text-dark);
+  font-size: 1.1rem;
+}
